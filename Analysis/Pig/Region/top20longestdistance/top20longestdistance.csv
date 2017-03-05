@@ -1,0 +1,21 @@
+pickuplon,pickuplat, dropofflon,dropofflat,totalrides,averagedistance,totalpassenger,averageamount,averagesurcharge,noofpassengerspayingtip,averagetoll,pickupneighbor,pickuplocality,pickup_address,dropoffneighbor,dropofflocality,dropoff_address
+-73.84149,40.72012,-73.93987,40.75139,1,100,1,30,0.5,1,0,Forest Hills,Queens,10910-10920 Queens Blvd Forest Hills NY 11375 USA,LIC,Queens,41-17-41-19 Crescent St Long Island City NY 11101 USA
+-73.954475,40.76383,-73.869804,40.772232,1,100,1,4,1,0,0,UES,Manhattan,509 E 68th St New York NY 10065 USA,East Elmhurst,Queens,LaGuardia Ext East Elmhurst NY 11371 USA
+-73.965034,40.80134,-73.976234,40.788837,1,100,1,7.5,0,0,0,UWS,Manhattan,963 Amsterdam Ave New York NY 10025 USA,UWS,Manhattan,2373 Broadway New York NY 10024 USA
+-73.9745,40.762306,-73.98958,40.69082,1,100,1,30.6,0.5,1,0,Midtown,Manhattan,2-14 W 56th St New York NY 10019 USA,Downtown Brooklyn,Brooklyn,22 Boerum Pl Brooklyn NY 11201 USA
+-73.97626,40.75336,-73.921814,40.743324,1,100,1,20.8,0.5,1,0,Midtown,Manhattan,MetLife Building 200 Park Ave New York NY 10166 USA,LIC,Queens,42-02 Queens Blvd Long Island City NY 11104 USA
+-73.98001,40.754948,-73.93079,40.81195,1,100,1,19,0.5,0,0,Midtown,Manhattan,530 5th Ave New York NY 10036 USA,West Bronx,Bronx,2516-2518 Park Ave Bronx NY 10451 USA
+-73.985886,40.746605,-73.98044,40.74239,1,100,2,9,0.5,1,0,Midtown,Manhattan,301-303 5th Ave New York NY 10016 USA,Midtown,Manhattan,405 3rd Ave New York NY 10016 USA
+-73.99652,40.73221,-73.98453,40.756462,1,100,1,10.8,0.5,1,0,Lower Manhattan,Manhattan,4 5th Ave New York NY 10011 USA,Midtown,Manhattan,130 W 44th St New York NY 10036 USA
+-74.00432,40.729706,-73.97753,40.779194,1,100,1,16,0.5,0,0,Lower Manhattan,Manhattan,60 Carmine St New York NY 10014 USA,UWS,Manhattan,314-316 Columbus Ave New York NY 10023 USA
+-74.00635,40.74139,-73.964096,40.79506,1,100,1,24.37,0.5,1,0,Midtown,Manhattan,417 W 14th St New York NY 10014 USA,UWS,Manhattan,8 Manhattan Ave New York NY 10025 USA
+-73.8712,40.77388,-74.00535,40.725582,1,99.9,1,3,0,0,0,East Elmhurst,Queens,Central Terminal Dr East Elmhurst NY 11371 USA,Lower Manhattan,Manhattan,246 Spring St New York NY 10013 USA
+-73.98797,40.722504,-73.975525,40.789722,1,99.8,1,3.5,0.5,0,0,Lower Manhattan,Manhattan,198-202 Orchard St New York NY 10002 USA,UWS,Manhattan,2407 Broadway New York NY 10024 USA
+-74.00215,40.724648,-73.95259,40.637585,1,99.7,1,3.5,0.5,0,0,Lower Manhattan,Manhattan,166-172 Spring St New York NY 10012 USA,Flatbush - Ditmas Park,Brooklyn,1371 Flatbush Ave Brooklyn NY 11210 USA
+-73.87305,40.774113,-73.86975,40.772804,1,99.6,1,3.5,0.5,0,0,East Elmhurst,Queens,Central Terminal Dr East Elmhurst NY 11371 USA,East Elmhurst,Queens,LaGuardia Ext East Elmhurst NY 11371 USA
+-73.98811,40.754528,-73.92804,40.865665,1,99.5,1,3.5,0.5,0,0,Midtown,Manhattan,550 Fashion Ave New York NY 10018 USA,Upper Manhattan,Manhattan,1825 Riverside Dr New York NY 10034 USA
+-73.86408,40.77012,-73.96806,40.684277,1,99.3,1,3,0,0,0,East Elmhurst,Queens,Terminal C East Elmhurst NY 11371 USA,Clinton Hill,Brooklyn,467 Vanderbilt Ave Brooklyn NY 11238 USA
+-73.94808,40.78298,-73.91155,40.863052,1,99.3,1,3,0,0,0,UES,Manhattan,1820 2nd Ave New York NY 10128 USA,West Bronx,Bronx,Major Deegan Expy & W Fordham Rd & I-87 Bronx NY 10468 USA
+-73.7885,40.64196,-73.96705,40.59396,1,99.2,1,55,0,1,0,Jamaica,Queens,4 Central Terminal Area Jamaica NY 11430 USA,Gravesend,Brooklyn,2303 E 4th St Brooklyn NY 11223 USA
+-73.885185,40.772617,-73.98145,40.75941,1,99.2,1,3,0,0,0,East Elmhurst,Queens,5 Marine Terminal Rd East Elmhurst NY 11371 USA,Midtown,Manhattan,100-120 W 49th St New York NY 10019 USA
+-73.97775,40.7769,-73.86685,40.77093,1,99.2,1,8.8,1,0,4.8,UWS,Manhattan,32-40 W 72nd St New York NY 10023 USA,East Elmhurst,Queens,E End Rd East Elmhurst NY 11371 USA

@@ -1,0 +1,21 @@
+pickuplon,pickuplat, dropofflon,dropofflat,totalrides,averagedistance,totalpassenger,averageamount,averagesurcharge,noofpassengerspayingtip,averagetoll,pickupneighbor,pickuplocality,pickup_address,dropoffneighbor,dropofflocality,dropoff_address
+-73.78054,40.64537,-73.971466,40.926373,1,28.4,3,121,0,0,20,Jamaica,Queens,Van Wyck Expy & JFK Access Rd Jamaica NY 11430 USA,Tenafly,Tenafly,42 Jefferson Ave Tenafly NJ 07670 USA
+-73.78108,40.645016,-74.17788,40.69555,1,37.1,1,133,0,0,20,Jamaica,Queens,Van Wyck Expy Jamaica NY 11430 USA,Newark,Newark,Terminal C Newark NJ 07114 USA
+-73.784035,40.646236,-74.03544,40.724846,1,21.83,1,132.5,0,1,20,Jamaica,Queens,JFK Access Rd Jamaica NY 11430 USA,The Waterfront,Jersey City,48 Washington Blvd Jersey City NJ 07310 USA
+-73.78604,40.64171,-74.18259,40.672977,1,34.94,1,144,0,1,20,Jamaica,Queens,4 Central Terminal Area Jamaica NY 11430 USA,Newark,Newark,Earhart Dr Newark NJ 07114 USA
+-73.788925,40.644936,-74.05531,40.88909,1,19.6,1,156,0,1,20,Jamaica,Queens,107-11 Van Wyck Expy Jamaica NY 11435 USA,Hackensack,Hackensack,170 Prospect Ave Hackensack NJ 07601 USA
+-73.78935,40.644478,-74.178085,40.69564,1,37.2,1,145,0,1,20,Jamaica,Queens,107-11 Van Wyck Expy Jamaica NY 11435 USA,Newark,Newark,Terminal C Newark NJ 07114 USA
+-73.789406,40.643047,-73.7887,40.6421,1,3.2,1,218,0,1,20,Jamaica,Queens,312 Federal Cir Jamaica NY 11430 USA,Jamaica,Queens,4 Central Terminal Area Jamaica NY 11430 USA
+-73.789604,40.643707,-73.76895,40.948048,1,26.31,1,103.3,0.5,1,20,Jamaica,Queens,312 Federal Cir Jamaica NY 11430 USA,Larchmont,Larchmont,4 Briar Close Rd Larchmont NY 10538 USA
+-73.80321,40.66199,-74.06079,40.742393,1,22.6,1,128,0,1,20,Jamaica,Queens,Van Wyck Expy Jamaica NY 11430 USA,Journal Square,Jersey City,16 Stagg St Jersey City NJ 07306 USA
+-73.86656,40.77119,-74.070625,40.780064,1,23.6,1,123,0,1,20,East Elmhurst,Queens,E End Rd East Elmhurst NY 11371 USA,Secaucus,Secaucus,70 Enterprise Ave N Secaucus NJ 07094 USA
+-73.86742,40.771454,-74.326,40.559788,1,39.6,1,218.75,0,1,20,East Elmhurst,Queens,LaGuardia Airport Entrance East Elmhurst NY 11371 USA,Iselin,Woodbridge Township,194 S Wood Ave Iselin NJ 08830 USA
+-73.873024,40.77406,-74.18486,40.69903,1,23.1,4,99,0,0,20,East Elmhurst,Queens,Central Terminal Dr East Elmhurst NY 11371 USA,Newark,Newark,Newark International Airport St & Haynes Ave Newark NJ 07114 USA
+-73.92153,41.018826,-73.92153,41.018818,1,0,1,150,0,0,20,Palisades,Palisades,334 Rte 9w Palisades NY 10964 USA,Palisades,Palisades,334 Rte 9w Palisades NY 10964 USA
+-73.93152,40.7941,-73.86548,40.770786,1,6.9,1,42,1,0,20,Manhattan,Manhattan,FDR Drive New York NY USA,East Elmhurst,Queens,E End Rd East Elmhurst NY 11371 USA
+-73.95864,40.81615,-74.17733,40.695164,1,25.7,2,127.2,1,1,20,Upper Manhattan,Manhattan,605-609 W 125th St New York NY 10027 USA,Newark,Newark,Terminal C Newark NJ 07114 USA
+-73.96231,40.77021,-74.17726,40.695126,1,23.48,1,103,0,0,20,UES,Manhattan,997 Lexington Ave New York NY 10021 USA,Newark,Newark,Terminal C Newark NJ 07114 USA
+-74.000496,40.72734,-74.18392,40.689194,1,12.94,1,81,0.5,1,20,Lower Manhattan,Manhattan,106 W Houston St New York NY 10012 USA,Newark,Newark,Express Rd Newark NJ 07114 USA
+-74.00062,40.758263,-74.17845,40.68986,1,16.56,3,94.4,0,1,20,Midtown,Manhattan,Javits Center Roadway New York NY 10018 USA,Newark,Newark,Express Rd Newark NJ 07114 USA
+-74.002304,40.741104,-74.17765,40.695297,1,19.21,1,104.6,0,1,20,Midtown,Manhattan,Port of New York Authority Building 111 8th Ave New York NY 10011 USA,Newark,Newark,Terminal C Newark NJ 07114 USA
+-74.00378,40.742046,-74.176765,40.69433,1,21.3,1,108.8,0,1,20,Midtown,Manhattan,357-363 W 16th St New York NY 10011 USA,Newark,Newark,Terminal C Newark NJ 07114 USA

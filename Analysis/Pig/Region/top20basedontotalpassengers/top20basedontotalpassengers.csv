@@ -1,0 +1,21 @@
+pickuplon,pickuplat, dropofflon,dropofflat,totalrides,averagedistance,totalpassenger,averageamount,averagesurcharge,noofpassengerspayingtip,averagetoll,pickupneighbor,pickuplocality,pickup_address,dropoffneighbor,dropofflocality,dropoff_address
+-73.937584,40.75801,-73.937584,40.75801,2834,2.62,6605,13.53,0.31,1468,0.17,LIC,Queens,37-20 22nd St Long Island City NY 11101 USA,LIC,Queens,37-20 22nd St Long Island City NY 11101 USA
+-73.99303,40.737007,-73.99303,40.737007,1901,2.62,6359,13.84,0.33,1001,0.12,Midtown,Manhattan,100 5th Ave New York NY 10011 USA,Midtown,Manhattan,100 5th Ave New York NY 10011 USA
+-73.965034,40.759426,-73.965034,40.759426,2194,2.73,5945,13.78,0.28,1193,0.31,Midtown,Manhattan,1084 2nd Ave New York NY 10022 USA,Midtown,Manhattan,1084 2nd Ave New York NY 10022 USA
+-73.85042,40.83717,-73.85042,40.83717,1803,2.42,5739,12.78,0.31,935,0.13,East Bronx,Bronx,1529 Glover St Bronx NY 10462 USA,East Bronx,Bronx,1529 Glover St Bronx NY 10462 USA
+-73.94904,40.744915,-73.94904,40.744915,2914,2.24,3251,12.08,0.32,1434,0.06,LIC,Queens,11-49 47th Ave Long Island City NY 11101 USA,LIC,Queens,11-49 47th Ave Long Island City NY 11101 USA
+-73.990944,40.736053,-73.990944,40.736053,2048,2.49,2986,13.56,0.33,1115,0.13,Midtown,Manhattan,19 Union Square W New York NY 10003 USA,Midtown,Manhattan,19 Union Square W New York NY 10003 USA
+-73.93752,40.75815,-73.93752,40.75815,2210,2.41,2666,12.6,0.3,1158,0.08,LIC,Queens,37-01 21st St Long Island City NY 11101 USA,LIC,Queens,37-01 21st St Long Island City NY 11101 USA
+-73.9806,40.683193,-73.9806,40.683193,1576,2.58,1797,13.5,0.27,928,0.13,Boerum Hill,Brooklyn,311 Bergen St Brooklyn NY 11217 USA,Boerum Hill,Brooklyn,311 Bergen St Brooklyn NY 11217 USA
+-73.99078,40.770645,-73.99078,40.770645,1070,2.77,1452,14.68,0.32,580,0.23,Midtown,Manhattan,555 W 57th St New York NY 10019 USA,Midtown,Manhattan,555 W 57th St New York NY 10019 USA
+-73.97725,40.71501,-73.97725,40.71501,640,2.53,1332,13.25,0.32,339,0.08,Lower East Side,Manhattan,Williamsburg Bridge New York NY 10002 USA,Lower East Side,Manhattan,Williamsburg Bridge New York NY 10002 USA
+-73.903,40.763824,-73.903,40.763824,922,2.73,1293,14.41,0.34,516,0.21,Woodside,Queens,2502 Brooklyn Queens Expy W Woodside NY 11377 USA,Woodside,Queens,2502 Brooklyn Queens Expy W Woodside NY 11377 USA
+-73.98587,40.684944,-73.98587,40.684944,1096,2.53,1259,12.93,0.32,599,0.13,Boerum Hill,Brooklyn,198-200 Bergen St Brooklyn NY 11217 USA,Boerum Hill,Brooklyn,198-200 Bergen St Brooklyn NY 11217 USA
+-73.9237,40.76035,-73.9237,40.76035,1221,3.67,1228,18.59,0.47,528,0.28,LIC,Queens,32-22 34th St Long Island City NY 11106 USA,LIC,Queens,32-22 34th St Long Island City NY 11106 USA
+-73.92399,40.75261,-73.92399,40.75261,198,3.92,899,17.83,0.35,119,0.54,LIC,Queens,40-1 Northern Blvd Long Island City NY 11101 USA,LIC,Queens,40-1 Northern Blvd Long Island City NY 11101 USA
+-74.008286,40.71283,-74.008286,40.71283,662,3.28,899,15.39,0.38,343,0.31,Lower Manhattan,Manhattan,5-9 Park Pl New York NY 10007 USA,Lower Manhattan,Manhattan,5-9 Park Pl New York NY 10007 USA
+-73.974396,40.752983,-73.974396,40.752983,589,2.72,897,13.85,0.36,291,0.17,Midtown,Manhattan,132 E 45th St New York NY 10017 USA,Midtown,Manhattan,132 E 45th St New York NY 10017 USA
+-73.97738,40.631966,-73.97738,40.631966,861,2.33,864,12.33,0.31,445,0.12,Kensington,Brooklyn,911 McDonald Ave Brooklyn NY 11218 USA,Kensington,Brooklyn,911 McDonald Ave Brooklyn NY 11218 USA
+-73.9453,40.783367,-73.9453,40.783367,806,2.64,808,13.44,0.33,426,0.16,UES,Manhattan,336 E 96th St New York NY 10128 USA,UES,Manhattan,336 E 96th St New York NY 10128 USA
+-73.86759,40.72682,-73.86759,40.72682,737,2.43,738,13.42,0.33,396,0.15,Flushing,Queens,90-11 63rd Ave Flushing NY 11374 USA,Flushing,Queens,90-11 63rd Ave Flushing NY 11374 USA
+-73.93748,40.758453,-73.93748,40.758453,475,2.62,618,13.9,0.32,245,0.12,Astoria,Queens,21-0-21-98 37th Ave Astoria NY 11101 USA,Astoria,Queens,21-0-21-98 37th Ave Astoria NY 11101 USA

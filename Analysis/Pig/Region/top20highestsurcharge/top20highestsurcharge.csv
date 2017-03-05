@@ -1,0 +1,21 @@
+pickuplon,pickuplat, dropofflon,dropofflat,totalrides,averagedistance,totalpassenger,averageamount,averagesurcharge,noofpassengerspayingtip,averagetoll,pickupneighbor,pickuplocality,pickup_address,dropoffneighbor,dropofflocality,dropoff_address
+-73.93818,40.758545,-73.93771,40.758423,1,0,2,20,15,0,0,Astoria,Queens,37-2-37-54 21st St Astoria NY 11106 USA,LIC,Queens,37-3 21st St Long Island City NY 11101 USA
+-73.93764,40.758427,-73.9378,40.75853,1,0,1,20.75,12.5,0,0,Astoria,Queens,21-0-21-98 37th Ave Astoria NY 11101 USA,LIC,Queens,37-3 21st St Long Island City NY 11101 USA
+-73.96445,40.775658,-74.187965,40.693962,1,18,2,100,12.5,0,0,UES,Manhattan,960 5th Ave New York NY 10075 USA,Newark,Newark,U.S. 9 & US-1 Newark NJ 07114 USA
+-73.9021,40.7639,-73.902016,40.763924,1,0,1,16,12,0,0,Woodside,Queens,24-55 Brooklyn Queens Expy W Woodside NY 11377 USA,Woodside,Queens,24-55 Brooklyn Queens Expy W Woodside NY 11377 USA
+-74.00112,40.741432,-74.17788,40.690037,1,19.8,1,100.64,10.1,1,15,Midtown,Manhattan,142 8th Ave New York NY 10011 USA,Newark,Newark,Terminal B Newark NJ 07114 USA
+-73.937805,40.758385,-73.93778,40.758396,1,0,1,15,10,0,0,LIC,Queens,37-3 21st St Long Island City NY 11101 USA,LIC,Queens,37-3 21st St Long Island City NY 11101 USA
+-73.83048,40.665462,-73.94923,40.621624,1,9.6,1,36.5,8.5,0,0,Queens,Queens,Belt Pkwy Queens NY USA,Midwood,Brooklyn,2614-2620 Avenue L Brooklyn NY 11210 USA
+-73.97709,40.753143,-73.978294,40.7539,1,0.1,1,12,8,0,0,Midtown,Manhattan,MetLife Building 200 Park Ave New York NY 10166 USA,Midtown,Manhattan,335 Madison Ave New York NY 10017 USA
+-73.98444,40.679913,-73.9818,40.679268,1,0.3,1,13,8,0,0,Gowanus,Brooklyn,192-210 3rd Ave Brooklyn NY 11217 USA,Gowanus,Brooklyn,164 4th Ave Brooklyn NY 11217 USA
+-73.863335,40.76964,-73.863335,40.76966,1,0,1,10.5,7.5,0,0,East Elmhurst,Queens,Delta Departures Rd East Elmhurst NY 11371 USA,East Elmhurst,Queens,Delta Departures Rd East Elmhurst NY 11371 USA
+-73.801094,40.67191,-73.87107,40.77413,1,0.2,1,28,7,0,0,Jamaica,Queens,128-11 Van Wyck Expy Jamaica NY 11436 USA,East Elmhurst,Queens,Terminal B Queens NY 11371 USA
+-73.937485,40.758278,-73.93744,40.758068,1,0,2,14,7,0,0,LIC,Queens,37-01 21st St Long Island City NY 11101 USA,LIC,Queens,37-10 22nd St Long Island City NY 11101 USA
+-73.93772,40.758392,-73.93773,40.758396,1,0,1,10,7,0,0,LIC,Queens,37-3 21st St Long Island City NY 11101 USA,LIC,Queens,37-3 21st St Long Island City NY 11101 USA
+-74.00379,40.74306,-74.0039,40.74293,1,7.6,1,59,6.5,0,0,Midtown,Manhattan,116 9th Ave New York NY 10011 USA,Midtown,Manhattan,108 9th Ave New York NY 10011 USA
+-74.040085,40.722176,-74.040085,40.722187,1,0,1,59,6.5,0,0,Downtown Jersey City,Jersey City,154-162 2nd St Jersey City NJ 07302 USA,Downtown Jersey City,Jersey City,154-162 2nd St Jersey City NJ 07302 USA
+-74.04011,40.722168,-74.04011,40.72216,1,0,1,59,6.5,0,0,Downtown Jersey City,Jersey City,154-162 2nd St Jersey City NJ 07302 USA,Powerhouse Arts District,Jersey City,159 2nd St Jersey City NJ 07302 USA
+-74.04011,40.722168,-74.04011,40.72217,1,0,1,59,6.5,0,0,Downtown Jersey City,Jersey City,154-162 2nd St Jersey City NJ 07302 USA,Downtown Jersey City,Jersey City,154-162 2nd St Jersey City NJ 07302 USA
+-74.04011,40.72217,-74.04011,40.72217,1,0,1,59,6.5,0,0,Downtown Jersey City,Jersey City,154-162 2nd St Jersey City NJ 07302 USA,Downtown Jersey City,Jersey City,154-162 2nd St Jersey City NJ 07302 USA
+-74.04011,40.72217,-74.04011,40.722176,1,0,1,59,6.5,0,0,Downtown Jersey City,Jersey City,154-162 2nd St Jersey City NJ 07302 USA,Downtown Jersey City,Jersey City,154-162 2nd St Jersey City NJ 07302 USA
+-74.04045,40.72528,-74.04047,40.72517,1,0.2,1,59,6.5,0,0,The Waterfront,Jersey City,447-457 Marin Blvd Jersey City NJ 07302 USA,The Waterfront,Jersey City,447-457 Marin Blvd Jersey City NJ 07302 USA
